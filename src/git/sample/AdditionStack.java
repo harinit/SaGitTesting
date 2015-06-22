@@ -19,6 +19,7 @@ public class AdditionStack {
 		num = 50;
 		stackAddition();
 		System.out.println("Sum=" + ans);
+		System.out.println("This is for testing purpose" );
 	}
 
 	public static void stackAddition() {
